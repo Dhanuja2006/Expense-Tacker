@@ -16,13 +16,11 @@ This is an Expense Tracker application developed in Java that allows users to ma
 - **Inheritance**: To extend functionalities and share common behaviors among different expense types.
 - **Abstract Class**: To define a common interface for expense-related operations while allowing specific implementations.
 
-## Getting Started
-
 ## Prerequisites
 
 - Java Development Kit (JDK) installed on your machine.
 - An IDE (e.g., IntelliJ IDEA, Eclipse) or a text editor for Java development.
 
-##Usage
+## Usage
 
 Upon running the application, you will be presented with a menu to choose from the available operations. Follow the prompts to add categories, record expenses, and view your records.
